@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Event Recap Video 制作流程</title>
+<desc id="desc">现场素材进入音乐驱动的剪辑流程，交付视频和封面。概念流程示意，不是样例视频。</desc>
+<rect width="1200" height="340" rx="20" fill="#141923"/>
+<g font-family="Segoe UI,Microsoft YaHei,sans-serif" font-weight="700" fill="#F7F4ED" font-size="48">
+<text x="62" y="93">现场素材</text><text x="456" y="93">音乐分镜</text><text x="850" y="93">视频封面</text>
+</g>
+<g fill="none" stroke="#748094" stroke-width="3"><path d="M308 190H412m-18-16 18 16-18 16M702 190H806m-18-16 18 16-18 16"/></g>
+<g id="source-frames" fill="#283344" stroke="#A4C6D9" stroke-width="3"><rect x="62" y="140" width="150" height="112" rx="8"/><rect x="104" y="164" width="150" height="112" rx="8"/><path d="m118 252 38-40 28 24 24-32 30 48" fill="none"/><circle cx="220" cy="190" r="9" fill="#A4C6D9"/></g>
+<g id="beat-timeline"><rect x="456" y="145" width="240" height="115" rx="8" fill="#283344"/><path d="M478 190h15l9-25 12 50 12-50 12 50 12-25h25l9-25 12 50 12-50 12 50 12-25h25" fill="none" stroke="#EDAB78" stroke-width="4"/><g fill="#EDAB78"><rect x="478" y="233" width="62" height="10"/><rect x="548" y="233" width="62" height="10"/><rect x="618" y="233" width="62" height="10"/></g></g>
+<g id="deliverables"><rect x="850" y="146" width="208" height="122" rx="8" fill="#283344" stroke="#A4C6D9" stroke-width="3"/><path d="m927 177 0 58 45-29Z" fill="#EDAB78"/><rect x="1030" y="178" width="98" height="116" rx="8" fill="#F7F4ED"/><path d="M1047 200h64m-64 15h42" stroke="#283344" stroke-width="6"/><rect x="1047" y="237" width="64" height="38" fill="#A4C6D9"/></g>
+</svg>
