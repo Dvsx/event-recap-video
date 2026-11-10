@@ -74,9 +74,9 @@
 
 ### MAKE SOMETHING NIGHT · 把点子做出来
 
-[![观看最新快节奏版活动回顾](examples/make-something-night/cover.png)](https://github.com/Dvsx/event-recap-video/raw/refs/heads/main/examples/make-something-night/demo.mp4)
+https://github.com/user-attachments/assets/5bdc42fc-b609-473d-a45a-3eaf61b9f5b2
 
-**[▶ 播放 / 下载最新视频（21.4 秒）](https://github.com/Dvsx/event-recap-video/raw/refs/heads/main/examples/make-something-night/demo.mp4)** · [网页播放器源码](examples/make-something-night/index.html) · [素材与许可](examples/make-something-night/CREDITS.md) · [验证记录](examples/make-something-night/VALIDATION.md)
+**[下载最新视频（21.4 秒）](https://github.com/Dvsx/event-recap-video/raw/refs/heads/main/examples/make-something-night/demo.mp4)** · [网页播放器源码](examples/make-something-night/index.html) · [素材与许可](examples/make-something-night/CREDITS.md) · [验证记录](examples/make-something-night/VALIDATION.md)
 
 虚构创意工作坊，从全新矢量插画和空工程出发：便签集结、三分屏展开、中心穿入、作品阵列与收尾海报。最新版缩短停留与切换间隔，音乐保持原速。1080P / 30 fps，约 3.4 MB。
 
